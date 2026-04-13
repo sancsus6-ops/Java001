@@ -50,8 +50,8 @@ public class control {
 //}
  
 for(int e = 1; e <= 20; e++){
-if (e % 2 == 0){
-System.out.println(e);
+for(int a = 1; a <= 15; a++){
+System.out.println(e+ ""+ a);
 }
 //int e = 1;
 //do {
